@@ -1,6 +1,4 @@
 //Matt Drummond
-//B333M439
-//Progam Number: 2
 
 
 #include "odometer.hpp"
