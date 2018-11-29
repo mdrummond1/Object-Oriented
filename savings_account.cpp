@@ -1,17 +1,13 @@
 /*Matthew Drummond
- *B333M439
- *Program #4
  * 
- * 	Pseudo code for savings_account class
+ *
  * 1. Default Constructor
  * 2. Overloaded constructor
  * 3. Calculate interest
  * 4. overloaded << operator
  * 
  * 
- * 
- * 
- * */
+ */
 #include "savings_account.hpp"
 #include <iostream>
 
