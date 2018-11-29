@@ -1,9 +1,8 @@
-//Matthew Drummond
-//B333M439
-//This program will create instances of the Odometer class and test various values
-//Program Number: 2
+/*Matthew Drummond
+This program will create instances of the Odometer class and test various values
 
-/*The main function will perform various tests with differing values for 
+
+The main function will perform various tests with differing values for 
  * 5 different odometer instances.
  *  */
 
