@@ -1,7 +1,5 @@
 /* 	Matthew Drummond
-	B333M439
-	Program Number: 2
-
+	
 	Description:
 	* This is an odometer class that can create an empty odometer or, one with miles/fuel used.
 	* It will calculate mpg and gallons needed for a certain distance.
