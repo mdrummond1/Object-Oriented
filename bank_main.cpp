@@ -1,6 +1,4 @@
 /*Matthew Drummond
- *B333M439
- *Program #4
  * 
  * 			Pseudo code
  * 		1. Test general class Account features.
