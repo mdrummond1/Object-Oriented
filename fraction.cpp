@@ -1,7 +1,4 @@
 //Matthew Drummond
-//B333M439
-//Program #3
-
 
 
 #include <iostream>
