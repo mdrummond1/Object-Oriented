@@ -1,8 +1,6 @@
 /*	Matthew Drummond
-	B333M439
-	Program #3
-
-	main 3 contains a menu to access the different operations of 
+	
+	contains a menu to access the different operations of 
 	* the fraction class.*/
   
 
