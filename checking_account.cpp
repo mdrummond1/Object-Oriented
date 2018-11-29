@@ -1,6 +1,4 @@
 /*Matthew Drummond
- *B333M439
- *Program #4
  * 
  * 			Pseudo Code
  * 1. Default constructor
@@ -8,7 +6,7 @@
  * 3. Credit
  * 4. Debit
  * 
- * */
+ */
 #include "checking_account.hpp"
 #include <iostream>
 
