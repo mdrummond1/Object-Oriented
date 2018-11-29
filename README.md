@@ -14,3 +14,11 @@ Fraction program uses:
 fraction.hpp
 fraction.cpp
 fraction_main.cpp
+
+Odometer program:
+odometer.hpp
+odometer.cpp
+odom_main.cpp
+
+dungeons & dragons program:
+files to come...
