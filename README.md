@@ -22,9 +22,4 @@ odometer.cpp
 odom_main.cpp
 
 dungeons & dragons program:
-base_char.hpp
-base_char.cpp
-main_proj.cpp
-classes.txt
-races.txt
-all files that end in _names.txt
+  new repo -> https://github.com/mdrummond1/dnd-Companion.git
